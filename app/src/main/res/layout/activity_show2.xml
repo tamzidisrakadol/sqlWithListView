@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".showActivity2">
+
+<ListView
+    android:id="@+id/contactListId"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:listSelector="#8EF3B8"
+    android:divider="#F1D753"
+    android:dividerHeight="3dp">
+
+</ListView>
+
+
+
+</LinearLayout>

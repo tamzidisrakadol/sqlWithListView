@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sqlDatabaseWithListView</string>
+    <string name="txt1">Please enter your name and number</string>
+</resources>
